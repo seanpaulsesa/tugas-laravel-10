@@ -17,7 +17,7 @@ Before run `npm install` and `npm run build`
 
 ### Laravel
 
-1. Clone Repo: `git clone https://github.com/GalehLudi/Sistem-Informasi-Manajemen-Sekolah.git`
+1. Clone Repo: `git clone https://github.com/seanpaulsesa/tugas-laravel-10.git`
 2. Rename `env` file to `.env`
 3. Run `composer update`
 4. Run `php artisan key:generate`
@@ -46,5 +46,5 @@ Before run `npm install` and `npm run build`
 
 ***
 
-Sistem Informasi Manajemen Sekolah created by [Galeh Ludi](https://www.instagram.com/sesa.paulus/)
+Laravel CRUD Cread Read Update Delete created by [sesa.paulus](https://www.instagram.com/sesa.paulus/)
 

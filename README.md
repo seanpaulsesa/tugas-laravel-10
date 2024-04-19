@@ -39,12 +39,6 @@ Before run `npm install` and `npm run build`
 
 ## Update
 
-```text
-> Fix error (03-11-2022)
-> Change logo url & add db seed (05-12-2022)
-```
-
-***
 
 Laravel CRUD Cread Read Update Delete created by [sesa.paulus](https://www.instagram.com/sesa.paulus/)
 
